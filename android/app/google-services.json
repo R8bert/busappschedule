@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763435041851",
+    "project_id": "social-43871",
+    "storage_bucket": "social-43871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763435041851:android:120e72c3eb5967aac3081e",
+        "android_client_info": {
+          "package_name": "com.example.busway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763435041851-4u9npfvpig5tpq4rgdt6tv51i7hth2c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc2D69oTHDGeiiPmRuebSQRQ4lqvIu0J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763435041851-4u9npfvpig5tpq4rgdt6tv51i7hth2c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
