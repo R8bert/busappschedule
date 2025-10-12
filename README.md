@@ -2,7 +2,8 @@ Personal Project: Real-Time Bus Scheduler App
 
 ![gg2](https://user-images.githubusercontent.com/61593351/235311992-3c9ad466-bbbf-487b-a91a-6b8dd4644bf9.png)
 
-
+---
+===
 Developed a bus scheduler app using Flutter and Firebase database
 Created a real-time updating system that allows users to see the current location of the buses and their estimated arrival times
 Implemented a user authentication feature that allows only authorized personnel to update the database and manage the bus schedules
