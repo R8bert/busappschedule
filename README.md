@@ -54,14 +54,3 @@ Only authorized staff can update the schedules and locations through the admin i
 - Focused on clean design and intuitive user flow  
 - Ensured smooth transitions and minimal lag between updates
 
----
-
-## 🎯 What I Learned
-
-- Building and deploying a **real-time mobile app** using Flutter and Firebase  
-- Working with **asynchronous data streams** and live updates  
-- Implementing **secure authentication** and user management  
-- Designing **responsive and intuitive UIs**  
-- Managing app state efficiently and optimizing performance
-
----
